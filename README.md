@@ -10,7 +10,7 @@
 
 ## What is plugai?
 
-**plugai** scans your project, detects your tech stack, and uses AI to recommend open-source libraries you might be missing — with real GitHub star counts and ready-to-copy install commands.
+**plugai** scans your project, detects your tech stack, and uses AI to recommend open-source libraries you might be missing with real GitHub star counts and ready-to-copy install commands.
 
 No generic suggestions. Only libraries relevant to **your** project.
 
