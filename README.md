@@ -1,5 +1,3 @@
-# PlugAI
-AI-powered CLI tool that analyzes your project and recommends open-source libraries from GitHub
 # plugai
 
 > AI-powered CLI tool that analyzes your project and recommends the best open-source libraries from GitHub.
@@ -36,13 +34,13 @@ Your project folder
 
 ## Features
 
-- **Auto stack detection** — Go, Node.js, Python, Rust, Java, PHP, Ruby
-- **Any AI provider** — works with Claude, OpenAI, GitHub Copilot (via copilot-api), Groq, Ollama
-- **Real GitHub data** — star counts fetched live from GitHub Search API
-- **Interactive TUI** — navigate with arrow keys, select plugins to install
-- **ASCII-safe UI** — works in Windows CMD and Linux terminal
-- **JSON output** — pipe results into other tools with `--json`
-- **Analyze GitHub repos** — pass `--repo` to analyze any public repo without cloning
+- **Auto stack detection** - Go, Node.js, Python, Rust, Java, PHP, Ruby
+- **Any AI provider** - works with Claude, OpenAI, GitHub Copilot (via copilot-api), Groq, Ollama
+- **Real GitHub data** - star counts fetched live from GitHub Search API
+- **Interactive TUI** - navigate with arrow keys, select plugins to install
+- **ASCII-safe UI** - works in Windows CMD and Linux terminal
+- **JSON output** - pipe results into other tools with `--json`
+- **Analyze GitHub repos** - pass `--repo` to analyze any public repo without cloning
 
 ---
 
